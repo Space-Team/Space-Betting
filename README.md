@@ -39,10 +39,10 @@ React, Express, Knex, Postgresql, Node, Ant Design, Cypress.
 # Authors
 <img width="512" alt="screen_shot_2018-02-09_at_11 53 54_am_1024" src="https://user-images.githubusercontent.com/26422138/36044575-5b4a55c8-0d90-11e8-9fcf-5cd56e68741e.png">
 <br>
-Paul Highum [github](https://github.com/paulhighum)
-Amber Johnson [github](https://github.com/amberjohnsonsmile)
-Emily Pancake [github](https://github.com/epancake)
-Kyle Weintraub [github](https://github.com/themoonmoth)
+[Paul Highum](https://github.com/paulhighum)
+[Amber Johnson](https://github.com/amberjohnsonsmile)
+[Emily Pancake](https://github.com/epancake)
+[Kyle Weintraub](https://github.com/themoonmoth)
 
 # License
 MIT

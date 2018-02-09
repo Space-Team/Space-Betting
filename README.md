@@ -17,10 +17,10 @@ Planet Wager will provide a platform for users to place bets at anytime, and wak
 # User Experience
 Users open the app and login using a username and password.
 <br>
-<img width="377" alt="screen shot 2018-02-09 at 11 59 02 am" src="https://user-images.githubusercontent.com/26422138/36044848-2c2cec32-0d91-11e8-94ab-f30686dae556.png"> 
+<img width="377" alt="screen shot 2018-02-09 at 11 59 02 am" src="https://user-images.githubusercontent.com/26422138/36044848-2c2cec32-0d91-11e8-94ab-f30686dae556.png">
 <img width="378" alt="screen shot 2018-02-09 at 11 59 42 am" src="https://user-images.githubusercontent.com/26422138/36044845-2a3117d2-0d91-11e8-9b88-4ab3cd839d16.png">
 <br>
-They are presented with a list of current bets which they can accept. Additionally, they can write their own bet by filling in a text field (i.e. the US wins gold in women's Alpine skiing) and a number of spacebucks. The bet goes up on the "betting board" and other users can accept the bet. If accepted, the bet moves to each users profile page, either in their created bets or their accepted bets. 
+They are presented with a list of current bets which they can accept. Additionally, they can write their own bet by filling in a text field (i.e. the US wins gold in women's Alpine skiing) and a number of spacebucks. The bet goes up on the "betting board" and other users can accept the bet. If accepted, the bet moves to each users profile page, either in their created bets or their accepted bets.
 <br>
 <img width="376" alt="screen shot 2018-02-09 at 11 12 13 am" src="https://user-images.githubusercontent.com/26422138/36045301-7ec80b60-0d92-11e8-8cb1-d7e137fe406b.png">
 <img width="378" alt="screen shot 2018-02-09 at 12 10 36 pm" src="https://user-images.githubusercontent.com/26422138/36045302-80529bf8-0d92-11e8-84ad-97e71f99e72c.png">
@@ -39,10 +39,10 @@ React, Express, Knex, Postgresql, Node, Ant Design, Cypress.
 # Authors
 <img width="512" alt="screen_shot_2018-02-09_at_11 53 54_am_1024" src="https://user-images.githubusercontent.com/26422138/36044575-5b4a55c8-0d90-11e8-9fcf-5cd56e68741e.png">
 <br>
-[Paul Highum](https://github.com/paulhighum)
-[Amber Johnson](https://github.com/amberjohnsonsmile)
-[Emily Pancake](https://github.com/epancake)
-[Kyle Weintraub](https://github.com/themoonmoth)
+Paul Highum[github](https://github.com/paulhighum)
+Amber Johnson[github](https://github.com/amberjohnsonsmile)
+Emily Pancake[github](https://github.com/epancake)
+Kyle Weintraub[github](https://github.com/themoonmoth)
 
 # License
 MIT

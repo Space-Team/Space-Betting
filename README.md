@@ -2,6 +2,7 @@
 
 <div>
   <img width="376" alt="screen shot 2018-02-09 at 11 12 13 am" src="https://user-images.githubusercontent.com/26422138/36042772-2b340722-0d8a-11e8-8f2b-458a57d564ec.png">
+  <div>                                   </div>
   <img width="377" alt="screen shot 2018-02-09 at 11 15 07 am" src="https://user-images.githubusercontent.com/26422138/36042871-8c747fd0-0d8a-11e8-9a07-9642113869af.png">
 </div>
 
@@ -20,7 +21,7 @@ Users open the app and input a username and password. They are presented with a 
 # Installation Instructions
 Using the app only requires visiting our website, https://planetwager.herokuapp.com/, and setting up an account.
 
-However, if you wish to download the app and make changes to better suit your personal needs, you will find the source code for the fronted at: https://github.com/Space-Team/space-betting-frontend and the code for the backend at: https://github.com/Space-Team/Space-Betting-Backend. After forking over your desired repo and cloning it down to your computer, please ```npm install``` then happy hacking!
+However, if you wish to download the app and make changes to better suit your personal needs, you will find the source code for the fronted at: https://github.com/Space-Team/space-betting-frontend and the code for the backend at: https://github.com/Space-Team/Space-Betting-Backend. After forking over your desired repo and cloning it down to your computer, please ```npm install``` then happy hacking! You will be able to find more detailed installation instructions in the respective repos for the frontend and the backend.
 
 
 

@@ -13,7 +13,7 @@ Planet Wager will provide a platform for users to place bets at anytime, and wak
 Users open the app and input a username and password. They are presented with a list of current bets which they can accept. Additionally, they can write their own bet by filling in a text field (i.e. the US wins gold in women's Alpine skiing) and a number of spacebucks. The bet goes up on the "betting board" and other users can accept the bet. If accepted, the bet moves to each users profile page, either in their created bets or their accepted bets. These bets have three option buttons, "I won", "They won", and "Wash". When the event is completed, users both need to select one of the win outcome buttons according to the agreed upon results. At that point the winning user will have the opportunity to collect their spacebucks. When the bet is complete, a full record of it appears in each user's profile and can be tagged if/when the spacebucks are transferred as fiat currency.
 
 # Installation Instructions
-Using the app only requires visiting our website, "", and setting up an account.
+Using the app only requires visiting our website, https://planetwager.herokuapp.com/, and setting up an account.
 
 However, if you wish to download the app and make changes to better suit your personal needs, you will find the source code for the fronted at: https://github.com/Space-Team/space-betting-frontend and the code for the backend at: https://github.com/Space-Team/Space-Betting-Backend. After forking over your desired repo and cloning it down to your computer, please ```npm install``` then happy hacking!
 

@@ -20,7 +20,12 @@ Users open the app and login using a username and password.
 <img width="377" alt="screen shot 2018-02-09 at 11 59 02 am" src="https://user-images.githubusercontent.com/26422138/36044848-2c2cec32-0d91-11e8-94ab-f30686dae556.png"> 
 <img width="378" alt="screen shot 2018-02-09 at 11 59 42 am" src="https://user-images.githubusercontent.com/26422138/36044845-2a3117d2-0d91-11e8-9b88-4ab3cd839d16.png">
 <br>
-They are presented with a list of current bets which they can accept. Additionally, they can write their own bet by filling in a text field (i.e. the US wins gold in women's Alpine skiing) and a number of spacebucks. The bet goes up on the "betting board" and other users can accept the bet. If accepted, the bet moves to each users profile page, either in their created bets or their accepted bets. These bets have three option buttons, "I won", "They won", and "Wash". When the event is completed, users both need to select one of the win outcome buttons according to the agreed upon results. At that point the winning user will have the opportunity to collect their spacebucks. When the bet is complete, a full record of it appears in each user's profile and can be tagged if/when the spacebucks are transferred as fiat currency.
+They are presented with a list of current bets which they can accept. Additionally, they can write their own bet by filling in a text field (i.e. the US wins gold in women's Alpine skiing) and a number of spacebucks. The bet goes up on the "betting board" and other users can accept the bet. If accepted, the bet moves to each users profile page, either in their created bets or their accepted bets. 
+<br>
+<img width="376" alt="screen shot 2018-02-09 at 11 12 13 am" src="https://user-images.githubusercontent.com/26422138/36045301-7ec80b60-0d92-11e8-8cb1-d7e137fe406b.png">
+<img width="378" alt="screen shot 2018-02-09 at 12 10 36 pm" src="https://user-images.githubusercontent.com/26422138/36045302-80529bf8-0d92-11e8-84ad-97e71f99e72c.png">
+<br>
+These bets have three option buttons, "I won", "They won", and "Wash". When the event is completed, users both need to select one of the win outcome buttons according to the agreed upon results. At that point the winning user will have the opportunity to collect their spacebucks. When the bet is complete, a full record of it appears in each user's profile and can be tagged if/when the spacebucks are transferred as fiat currency.
 
 # Installation Instructions
 Using the app only requires visiting our website, https://planetwager.herokuapp.com/, and setting up an account.

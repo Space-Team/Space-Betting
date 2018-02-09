@@ -27,10 +27,7 @@ However, if you wish to download the app and make changes to better suit your pe
 React, Express, Knex, Postgresql, Node, Ant Design, Cypress.
 
 # Authors
-Paul Highum
-Kyle Weintraub
-Amber Johnson
-Emily "trouble" Pancake
+<img width="512" alt="screen_shot_2018-02-09_at_11 53 54_am_1024" src="https://user-images.githubusercontent.com/26422138/36044575-5b4a55c8-0d90-11e8-9fcf-5cd56e68741e.png">
 
 # License
 MIT

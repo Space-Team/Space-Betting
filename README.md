@@ -1,6 +1,7 @@
 # Planet Wager
 
 <img width="376" alt="screen shot 2018-02-09 at 11 12 13 am" src="https://user-images.githubusercontent.com/26422138/36042772-2b340722-0d8a-11e8-8f2b-458a57d564ec.png">
+<img width="377" alt="screen shot 2018-02-09 at 11 15 07 am" src="https://user-images.githubusercontent.com/26422138/36042871-8c747fd0-0d8a-11e8-9a07-9642113869af.png">
 
 # App Description
 Planet Wager! The betting app that allows you to bet with your friends and keep track of who's losing spacebucks and who is raking them in.

@@ -1,4 +1,4 @@
-            <img src="https://user-images.githubusercontent.com/26422138/36043577-f5e6ca02-0d8c-11e8-8bad-de5519e8c67d.png">
+          ![planetwagerlogo](https://user-images.githubusercontent.com/26422138/36043699-6a35ae50-0d8d-11e8-9405-9e37c0d2de03.png)
 
 <div>
   <img width="376" alt="screen shot 2018-02-09 at 11 12 13 am" src="https://user-images.githubusercontent.com/26422138/36042772-2b340722-0d8a-11e8-8f2b-458a57d564ec.png">

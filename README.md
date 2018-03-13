@@ -34,7 +34,7 @@ However, if you wish to download the app and make changes to better suit your pe
 
 
 # Technologies
-React, Express, Knex, Postgresql, Node, Ant Design, Cypress.
+React, Express.js, Knex.js, Postgresql, Node.js, Ant Design, Cypress.
 
 
 # Authors

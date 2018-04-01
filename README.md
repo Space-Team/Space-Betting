@@ -45,5 +45,12 @@ Amber Johnson: https://github.com/amberjohnsonsmile
 Emily Pancake: https://github.com/epancake
 Kyle Weintraub: https://github.com/themoonmoth
 
+
+
+| Paul Highum | Amber Johnson | Emily Pancake | Kyle Weintraub |
+| ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
+| Github | [/paulhighum](https://github.com/paulhighum) | Github | [/amberjohnsonsmile](https://github.com/amberjohnsonsmile)  | Github | [/epancake](https://github.com/epancake) | Github| [/themoonmoth](https://github.com/themoonmoth) |
+
+
 # License
 MIT

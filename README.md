@@ -8,6 +8,11 @@
 # App Description
 Planet Wager! The betting app that allows you to bet with your friends and keep track of who's losing spacebucks and who is raking them in.
 
+| Paul Highum | Amber Johnson | Emily Pancake | Kyle Weintraub |
+| ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
+| Github | [/paulhighum](https://github.com/paulhighum) | Github | [/amberjohnsonsmile](https://github.com/amberjohnsonsmile)  | Github | [/epancake](https://github.com/epancake) | Github| [/themoonmoth](https://github.com/themoonmoth) |
+
+
 # Problem Statement
 Have you ever made multiple bets with friends over the course of a night and lost track? With the Olympics coming up next week, viewers across the globe are going to be entering into friendly wagers, but Pyeongchang is 16 hours ahead of Mountain Standard Time, and it's going to be difficult to track if the events are happening while you are asleep. Eventually everyone will forget who owes who and what bets were made. No more!
 
@@ -47,9 +52,6 @@ Kyle Weintraub: https://github.com/themoonmoth
 
 
 
-| Paul Highum | Amber Johnson | Emily Pancake | Kyle Weintraub |
-| ------------- | ------------- | ------------- | ------------- |------------- | ------------- |
-| Github | [/paulhighum](https://github.com/paulhighum) | Github | [/amberjohnsonsmile](https://github.com/amberjohnsonsmile)  | Github | [/epancake](https://github.com/epancake) | Github| [/themoonmoth](https://github.com/themoonmoth) |
 
 
 # License

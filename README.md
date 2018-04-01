@@ -1,10 +1,9 @@
 ![planetwagerlogo](https://user-images.githubusercontent.com/26422138/36043699-6a35ae50-0d8d-11e8-9405-9e37c0d2de03.png)
-![](https://user-images.githubusercontent.com/26422138/36042871-8c747fd0-0d8a-11e8-9a07-9642113869af.png =100x20)
 
-
+<div>
   <img width="376" alt="screen shot 2018-02-09 at 11 12 13 am" src="https://user-images.githubusercontent.com/26422138/36042772-2b340722-0d8a-11e8-8f2b-458a57d564ec.png"/>
   <img width="377" alt="screen shot 2018-02-09 at 11 15 07 am" src="https://user-images.githubusercontent.com/26422138/36042871-8c747fd0-0d8a-11e8-9a07-9642113869af.png"/>
-  
+</div>
 
 # App Description
 Planet Wager! The betting app that allows you to bet with your friends and keep track of who's losing spacebucks and who is raking them in.
@@ -41,10 +40,10 @@ React, Express.js, Knex.js, Postgresql, Node.js, Ant Design, Cypress.
 # Authors
 <img width="512" alt="screen_shot_2018-02-09_at_11 53 54_am_1024" src="https://user-images.githubusercontent.com/26422138/36044575-5b4a55c8-0d90-11e8-9fcf-5cd56e68741e.png">
 <br/>
-### Paul Highum: https://github.com/paulhighum
-### Amber Johnson: https://github.com/amberjohnsonsmile
-### Emily Pancake: https://github.com/epancake
-### Kyle Weintraub: https://github.com/themoonmoth
+Paul Highum: https://github.com/paulhighum
+Amber Johnson: https://github.com/amberjohnsonsmile
+Emily Pancake: https://github.com/epancake
+Kyle Weintraub: https://github.com/themoonmoth
 
 
 

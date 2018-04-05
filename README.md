@@ -6,7 +6,7 @@
 </div>
 
 # App Description
-Planet Wager! The betting app that allows you to bet with your friends and keep track of who's losing spacebucks and who is raking them in. Visit it at https://planetwager.herokuapp.com/.
+Planet Wager! A React betting app that allows you to bet with your friends and keep track of who is losing spacebucks and who is raking them in. Visit it at https://planetwager.herokuapp.com/.
 
 # Problem Statement
 Have you ever made multiple bets with friends over the course of a night and lost track? With the Olympics coming up next week, viewers across the globe are going to be entering into friendly wagers, but Pyeongchang is 16 hours ahead of Mountain Standard Time, and it's going to be difficult to track if the events are happening while you are asleep. Eventually everyone will forget who owes who and what bets were made. No more!
